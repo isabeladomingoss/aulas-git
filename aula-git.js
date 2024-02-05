@@ -8,3 +8,5 @@ console.log ("Aula Git");
 //git add: enviar arquivo para a área de preparação = Stage.
 //enviar arquivo específico - git add + nome exato do arquivo
 //enviar todos os arquivos - git add .
+//git push - enviar alterações local para remoto
+//git push -u origin master ou branch.
